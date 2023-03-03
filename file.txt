@@ -1,3 +1,5 @@
 Name: Sajal
 Number: 8990008980
 Adddress: Bangalore
+Blood group: B+
+
